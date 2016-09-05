@@ -1,8 +1,8 @@
 {
-  "name": "loopback",
+  "name": "microfly2008-loopback",
   "version": "2.9.0",
-  "description": "LoopBack: Open Source Framework for Node.js",
-  "homepage": "http://loopback.io",
+  "description": "A Fork from strongloop/loopback",
+  "homepage": "https://github.com/microfly2008/loopback",
   "keywords": [
     "web",
     "restful",
@@ -88,7 +88,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback"
+    "url": "https://github.com/microfly2008/loopback"
   },
   "browser": {
     "express": "./lib/browser-express.js",
@@ -98,8 +98,8 @@
     "bcrypt": false
   },
   "license": {
-    "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/loopback/blob/master/LICENSE"
+    "name": "MIT",
+    "url": "https://github.com/microfly2008/loopback"
   },
   "optionalDependencies": {
     "sl-blip": "http://blip.strongloop.com/loopback@2.9.0"
